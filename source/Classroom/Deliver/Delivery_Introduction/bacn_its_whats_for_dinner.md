@@ -25,5 +25,4 @@ Gmail has moved past “Priority Inbox” and created “ [Smart Labels](http://
 
 With more tools to eliminate bacn, senders need to earn clicks and opens. Our advice, keep your content and frequency relevant. This means that every time an email is sent, it should bring the recipient something that they find to be of value. With every connection, consider what value you can add to that connection. The relationships we cling to are those where we feel that we are learning from; that approach us in a human way and want to share an experience. We push away those relationships that we feel are naggy or forceful. Bacn is that relationship where you enjoy their company but don’t have the time to meet their demands. An irrelevant email can break a recipient’s trust putting the sender in the danger zone to losing the relationship.
 
-If these are alerts or notifications, read up on our recent post (pending notification post) to help make sure they are done properly.
 
