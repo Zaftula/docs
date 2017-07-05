@@ -57,20 +57,6 @@ Can I whitelabel multiple domains?
 Yes, it's possible to whitelabel multiple domains using the improved whitelabel management process. When multiple whitelabel domains exist on your account, SendGrid will use the from address for each email you send through SendGrid and match it to a domain and link whitelabel. If the from address does not match an existing whitelabel, SendGrid will fall back to the whitelabel you have chosen as the default.
 
 {% anchor h2 %}
-Why is my whitelabel marked with a caution sign?
-{% endanchor %}
-
-This means that you have a valid whitelabel, but it is using our old whitelabel instructions. You can improve your whitelabel for better deliverability and security by creating a new whitelabel. This new whitelabel will give you access to all of the new whitelabel features that come from our improved whitelabel setup.
-
-{% anchor h2 %}
-Will my old whitelabel still work?
-{% endanchor %}
-
-Yes. It will automatically show up in the whitelabel settings and will be set as the default. You will not lose your whitelabel. We do suggest that you update your whitelabel by making a new one and updating your DNS to reap the benefit of our new features.
-
-[When you upgrade]({{root_url}}/Classroom/Troubleshooting/Authentication/upgrading_your_whitelabel.html), you will need to create new subdomains for IP, link, or domain whitelabels because we have split the whitelabeling functionality from "whitelabel everything" to individually whitelabel each separate piece.
-
-{% anchor h2 %}
 Why whitelabel?
 {% endanchor %}
 
