@@ -10,7 +10,7 @@ navigation:
   show: true
 ---
 
-{% anchor h2 %}
+ {% anchor h2 %}
 Table of Contents
 {% endanchor %}
 
