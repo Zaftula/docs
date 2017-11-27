@@ -19,7 +19,7 @@ navigation:
 - [Permission Reminders - Where Did You Get My Address?](#-Permission Reminders - Where Did You Get My Address?)
 - [Preference Centers: Giving Subscribers Control](#-Preference Centers: Giving Subscribers Control)
 
-{% anchor h2 %}
+ {% anchor h2 %}
 Opt-In Email
 {% endanchor %}
 
